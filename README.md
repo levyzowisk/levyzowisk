@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Levy Sousa
+# 👨 Levy Sousa
 
 **`Desenvolvedor FullStack`**
 
