@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Levy Pereira Sousa, tenho 20 anos e sou natural do Ceará. Atualmente, estou cursando Ciência da Computação na Estácio. Sou apaixonado por tecnologia e sempre procuro estar em constante evolução.
+Me chamo Levy Pereira Sousa, tenho 21 anos e sou natural do Ceará. Atualmente, estou cursando Ciência da Computação na Estácio. Sou apaixonado por tecnologia e sempre procuro estar em constante evolução.
 
 ### 🤖 Linguagens e Tecnologias
 
